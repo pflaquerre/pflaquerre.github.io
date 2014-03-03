@@ -1,0 +1,11 @@
+#contact-links {
+  margin: 1em auto;
+  display: block;
+  text-align: center;
+  font-size: 5em;
+}
+
+.fa:hover {
+  color: #00bef6;
+}
+
