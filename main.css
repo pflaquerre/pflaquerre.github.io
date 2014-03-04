@@ -5,6 +5,10 @@
   font-size: 5em;
 }
 
+.fa {
+  color: rgb(85, 26, 139);
+}
+
 .fa:hover {
   color: rgb(0, 190, 246);
 }
