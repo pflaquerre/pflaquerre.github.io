@@ -5,11 +5,11 @@
   font-size: 5em;
 }
 
-.fa {
+#contact-links a {
   color: rgb(85, 26, 139);
 }
 
-.fa:hover {
+#contact-links a:hover {
   color: rgb(0, 190, 246);
 }
 
